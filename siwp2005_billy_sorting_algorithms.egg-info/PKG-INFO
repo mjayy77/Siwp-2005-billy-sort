@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
-Name: sorting_algorithms
+Name: siwp2005_billy_sorting_algorithms
 Version: 1.0
 Summary: A collection of sorting algorithms
-Home-page: https://github.com/your-username/sorting_algorithms
+Home-page: https://github.com/mjayy77/Siwp-2005-billy-sort.git
 Author: Billy
 Author-email: billymj77@gmail.com
 License: MIT
@@ -23,4 +23,4 @@ License-File: LICENSE
 .
 
 ```sh
-pip install your_package_name
+pip install siwp2005_billy_sorting_algorithms

@@ -10,4 +10,4 @@
 .
 
 ```sh
-pip install your_package_name
+pip install siwp2005_billy_sorting_algorithms
