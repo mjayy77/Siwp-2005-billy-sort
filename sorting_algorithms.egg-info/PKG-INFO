@@ -1,0 +1,26 @@
+Metadata-Version: 2.1
+Name: sorting_algorithms
+Version: 1.0
+Summary: A collection of sorting algorithms
+Home-page: https://github.com/your-username/sorting_algorithms
+Author: Billy
+Author-email: billymj77@gmail.com
+License: MIT
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+License-File: LICENSE
+
+# siwp2005-billy-sort
+
+## Description
+*This package can be used to sort lists of numbers.*
+
+## Features
+*The package includes several common sorting algorithms, such as bubble sort, insertion sort, and quick sort.*
+
+## Installation
+.
+
+```sh
+pip install your_package_name
